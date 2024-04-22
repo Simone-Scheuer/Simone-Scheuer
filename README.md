@@ -1,5 +1,5 @@
 ‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵
-- 👋 Hi, I’m Simone!!! Ive been coding for 9 days in a row!
+- 👋 Hi, I’m Simone!!! Ive been coding for 10 days in a row!
 - 👀 I'm a mathmatics and computer science major at portland state!
 - 🌱 I’m currently learning python
 - 📫 How to reach me: jjmarkonson@gmail.com
