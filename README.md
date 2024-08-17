@@ -1,8 +1,7 @@
 ‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵
-- 👋 Hi, I’m Simone!!! Ive been coding for 22 days in a row!
+- 👋 Hi, I’m Simone!!! 
 - 👀 I'm a mathmatics and computer science major at portland state!
-- 🌱 I’m currently learning python
-- 📫 How to reach me: jjmarkonson@gmail.com
+- 🌱 I’m currently learning Javascript and React!
 - 😄 Pronouns: She/Her
 
 
