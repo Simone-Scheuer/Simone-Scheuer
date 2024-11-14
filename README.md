@@ -1,6 +1,6 @@
 ‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵
-- 👋 Hi, I’m Simone!!! 
-- 👀 I'm a mathmatics and computer science major at portland state!
+- 👋 Hi, I’m Simone!
+- 👀 I'm a mathmatics and computer science major!
 - 🌱 I’m currently learning Javascript and React!
 - 😄 Pronouns: She/Her
 
