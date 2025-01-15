@@ -1,7 +1,7 @@
 ‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵
 - 👋 Hi, I’m Simone!
 - 👀 I'm a mathmatics and computer science major!
-- 🌱 I’m currently learning Javascript and React!
+- 🌱 I’m currently learning C and C++!
 - 😄 Pronouns: She/Her
 
 
